@@ -5,4 +5,5 @@ import filterMapProblemSet from './scripts/03-filter-map.js';
 import findProblemSet from './scripts/04-find.js';
 import everyProblemSet from './scripts/05-every.js';
 import someProblemSet from './scripts/06-some.js';
-import sortProblemSet from './scripts/07-sort.js';
+import reduceProblemSet from './scripts/07-reduce.js';
+import sortProblemSet from './scripts/08-sort.js';
